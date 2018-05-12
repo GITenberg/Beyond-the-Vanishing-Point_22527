@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8443
     wikipedia: http://en.wikipedia.org/wiki/Ray_Cummings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22527#Beyond-the-Vanishing-Point
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-09-06'
 gutenberg_type: Text
